@@ -1,0 +1,16 @@
+{
+  "name": "ts-algo",
+  "version": "0.0.1",
+  "author": "jic999",
+  "description": "",
+  "scripts": {
+    "lint": "eslint --ext .ts --fix ."
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.41.2",
+    "eslint": "^8.49.0",
+    "typescript": "^5.2.2"
+  }
+}
